@@ -6,10 +6,10 @@
 
 <img src="public/img/slide1.png" class="imagem-jogo"><br><br>
 
-<h4>O jogo tem um placar dinâmico e é sincronizado com o servidor, o jogo também conta de forma dinâmica número de palavras digitadas.</h4>
+<h4>O jogo tem um placar dinâmico e é sincronizado com o servidor, o jogo também conta de forma dinâmica o número de palavras digitadas.</h4>
 <img src="public/img/slide3.png" class="imagem-jogo"><br><br>
 
-<h4>O usuário tem a opção de reiniciar a partida, abrir e fecha o placar, troca de frase de forma aleatória, trocar de frase encolhendo o ID que vai de 1 até 10 e sincronizar o placar ao fim da partida.</h4>
+<h4>O usuário tem a opção de reiniciar a partida, abrir e fechar o placar, trocar de frase de forma aleatória, trocar de frase escolhendo o ID que vai de 1 até 10 e sincronizar o placar ao fim da partida.</h4>
 <img src="public/img/slide2.png" class="imagem-jogo">
 
 
